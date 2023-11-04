@@ -123,7 +123,7 @@
 }
 /* Change color on hover */
 .topnav a:hover{
-	background-color: #ddd;
+	background-color: #808080;
 	color: black;
 }
 .topnav a.active {
